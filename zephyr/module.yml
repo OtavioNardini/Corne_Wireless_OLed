@@ -1,4 +1,0 @@
-name: corne_oled
-
-build:
-  cmake: .
