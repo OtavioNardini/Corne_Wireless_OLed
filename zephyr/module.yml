@@ -1,4 +1,5 @@
 name: corne_oled
+
 build:
   cmake: .
-    kconfig: .
+  kconfig: .
