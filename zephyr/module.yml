@@ -1,4 +1,4 @@
 name: corne_oled
 build:
-  settings:
-    shield_root: .
+  cmake: .
+    kconfig: .
